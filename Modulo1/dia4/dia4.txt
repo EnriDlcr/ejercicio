@@ -1,0 +1,29 @@
+clase 3 checar vectores y matrices
+funcion del array list
+index 
+sort
+size
+get
+set
+
+Set no contien elementos repetidos,
+hashSet
+TreeSet
+linkedhashsset
+falta uno 
+
+
+collections en java
+-->list
+set 
+queque
+Colas primero en entrar primero en salir
+Queue
+.offer?
+.peek ? da el primer valor de la cola
+.poll? poll  elimina el primer elemento de la cola? confirmar
+
+arraylist
+linkedlist
+vector
+list permite almacenar informacion sin importar que este duplicada
